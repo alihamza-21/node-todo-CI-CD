@@ -13,4 +13,4 @@ jobs:
       with:
         server: http://ftp.bilawalelectronics.com/
         username: ali
-        password: ${{ GnewP@ass4131 }}
+        password: GnewP@ass4131
