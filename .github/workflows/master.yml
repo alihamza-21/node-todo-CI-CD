@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: http://ftp.bilawalelectronics.com/
-        username: ali
-        password: GnewP@ass4131
+        username: ali@zapher.co.uk
+        password: ${{ GnewP@ss4131 }}
